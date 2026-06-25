@@ -5,3 +5,5 @@ admincalc++
 tempCodeRunnerFile
 tempCodeRunnerFile.cpp
 CORP-CONTROL++
+*.dat
+*.log
