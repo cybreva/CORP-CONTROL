@@ -1,0 +1,6 @@
+corpdata/
+exports/
+corpcontrol
+corpcontrol.exe
+build/
+*.o
